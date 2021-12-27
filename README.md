@@ -3,7 +3,7 @@ In this repository you will find the Code to my Chatbots, developed in Python.
 I'll explain the structure of this Repository later.
 
 # Requirements
-The Chatbots all rely on [nltk](https://www.nltk.org/) and [sklearn](https://scikit-learn.org/stable/) and if you wish to integrate with Discord also the [Discprd.py library](https://discordpy.readthedocs.io/). If you wish to tamper with my work in progress stuff, you will also need [Chatterbot](https://chatterbot.readthedocs.io/).
+The Chatbots all rely on [nltk](https://www.nltk.org/) and [sklearn](https://scikit-learn.org/stable/) and if you wish to integrate with Discord also the [Discprd.py](https://discordpy.readthedocs.io/)library. If you wish to tamper with my work in progress stuff, you will also need [Chatterbot](https://chatterbot.readthedocs.io/).
 
 # Structure
 This Repository is split into two main Folders. **Chatbot** and **Chatbot x Discord**. 
