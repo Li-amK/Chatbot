@@ -21,7 +21,7 @@ This Folder includes my messy development/work in progress. You have been warned
 
 # Functionality
 If you don't understand something, a search with the search engine of your choice might help, or check out the Discussions.
-Feel free to open Issues if something doesn't work and to propose features in Discussions as well (Although I'm probably hell'a slow in implementing).
+Feel free to open Issues if something doesn't work and to propose features in Discussions as well (Although I'm probably hell'a slow at implementing).
 
 # License
 I license this code under the MIT license. Please see the license file for more information. tl;dr you can do whatever you want as long as you include the original copyright and license notice in any copy of the code or whatever you do with it.
