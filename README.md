@@ -9,7 +9,7 @@ The Chatbots all rely on [nltk](https://www.nltk.org/) and [sklearn](https://sci
 This Repository is split into two main Folders. **Chatbot** and **Chatbot x Discord**. 
 
 ## Chatbot
-In the Chatbot Folder you will find the basic Chatbot Code LAIla runs in.
+In the Chatbot Folder you will find the basic Chatbot Code LAIla runs on.
 LAIla is the first form of Chatbot that I made and that works.
 
 ## Chatbot x Discord
