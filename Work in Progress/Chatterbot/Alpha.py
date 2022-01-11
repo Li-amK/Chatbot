@@ -25,6 +25,4 @@ list_trainer = ListTrainer(kai)
 for item in (small_talk, math_talk):
     list_trainer.train(item)
 
-# to talk: use "print(kai.get_response("x"))
-
 print(kai.get_response("Hello"))
