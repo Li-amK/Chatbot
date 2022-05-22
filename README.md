@@ -1,4 +1,7 @@
+
+[![CodeQL](https://github.com/Li-amK/Chatbot/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/Li-amK/Chatbot/actions/workflows/codeql-analysis.yml)
 # Description
+
 In this repository you will find the Code to my Chatbots, developed in Python.
 I'll explain the structure of this Repository later.
 
