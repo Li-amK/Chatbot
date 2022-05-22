@@ -1,6 +1,6 @@
 
-[![CodeQL](https://github.com/Li-amK/Chatbot/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/Li-amK/Chatbot/actions/workflows/codeql-analysis.yml)
-# Description
+
+# Description 
 
 In this repository you will find the Code to my Chatbots, developed in Python.
 I'll explain the structure of this Repository later.
@@ -12,7 +12,7 @@ See also [requirements.txt](https://github.com/Li-amK/Chatbot/blob/main/.github/
 # Structure
 This Repository is split into two main Folders. **Chatbot** and **Chatbot x Discord**. 
 
-## Chatbot
+## Chatbot [![CodeQL](https://github.com/Li-amK/Chatbot/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/Li-amK/Chatbot/actions/workflows/codeql-analysis.yml)
 In the Chatbot Folder you will find the basic Chatbot Code LAIla runs on.
 LAIla is the first form of Chatbot that I made and that works.
 
